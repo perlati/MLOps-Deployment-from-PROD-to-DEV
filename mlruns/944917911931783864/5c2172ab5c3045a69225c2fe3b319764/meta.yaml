@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/madahbar/Documents/IRONHACK/WEEK%206%20-%20MLOPS/LAB/lab-mlops-deploy-prod-to-dev/mlops-lab/mlruns/944917911931783864/5c2172ab5c3045a69225c2fe3b319764/artifacts
+end_time: 1762782070729
+entry_point_name: ''
+experiment_id: '944917911931783864'
+lifecycle_stage: active
+run_id: 5c2172ab5c3045a69225c2fe3b319764
+run_name: trial
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762782070722
+status: 3
+tags: []
+user_id: madahbar
