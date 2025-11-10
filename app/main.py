@@ -9,3 +9,6 @@ def health():
 def square(x: float):
     return {"x": x, "x2": x*x}
 
+@app.get("/")
+def root():
+    return {"ok": True}
